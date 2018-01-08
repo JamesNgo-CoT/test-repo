@@ -1,3 +1,3 @@
-function sayHello(name) {
-  window.alert('Hello ' + name)
+function sayHello(n) {
+  window.alert('Hello ' + n)
 }
